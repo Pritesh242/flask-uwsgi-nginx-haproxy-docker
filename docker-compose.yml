@@ -8,4 +8,4 @@ haproxy:
   links:
     - web
   ports:
-    - 49000:80
+    - 51000:80
